@@ -1,6 +1,5 @@
-# jack-fintech-class
+# CASE STUDY ASSIGNMENT
 
-- One
-- Two
-- Three
-- Four
+## Company: Sezzle
+
+![image](sezzle-image.jpg)
