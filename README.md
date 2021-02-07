@@ -1,5 +1,7 @@
 # CASE STUDY ASSIGNMENT
 
-## Company: Sezzle
+## Overview and origin
+
+Company: Sezzle
 
 ![image](sezzle-image.jpg)
